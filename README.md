@@ -1,5 +1,7 @@
 # shadcn Faves
 
+WIP
+
 A list of my favorite shadcn tools
 - https://github.com/ekmas/neobrutalism-components
 - https://tweakcn.com/editor/theme
@@ -13,3 +15,5 @@ A list of my favorite shadcn tools
 
 Other
 - https://cmdk.paco.me/ cmd + k feature
+- https://ui.aceternity.com/
+- https://uvcanvas.com/
