@@ -18,3 +18,4 @@ Other
 - https://ui.aceternity.com/
 - https://uvcanvas.com/
 - rotating globe https://cobe-playground.vercel.app/
+- Vibe Coding Games: https://yoannmoi.net/nipplejs/
