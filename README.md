@@ -1,4 +1,4 @@
-# shadcn Faves
+# My Frontend List
 
 WIP
 
@@ -17,3 +17,4 @@ Other
 - https://cmdk.paco.me/ cmd + k feature
 - https://ui.aceternity.com/
 - https://uvcanvas.com/
+- rotating globe https://cobe-playground.vercel.app/
