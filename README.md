@@ -12,6 +12,7 @@ A list of my favorite shadcn tools
 - https://rnr-docs.vercel.app/getting-started/introduction/ - react native components
 - https://www.prompt-kit.com/ - Core building blocks for AI apps. High-quality, accessible, and customizable components for AI interfaces.
 - https://www.shadcnui-blocks.com/
+- https://magicui.design/
 
 
 Other
