@@ -1,6 +1,5 @@
-# My Frontend List
+# _[WIP]_ My Frontend List
 
-WIP
 
 A list of my favorite shadcn tools
 - https://github.com/ekmas/neobrutalism-components
@@ -13,6 +12,8 @@ A list of my favorite shadcn tools
 - https://www.prompt-kit.com/ - Core building blocks for AI apps. High-quality, accessible, and customizable components for AI interfaces.
 - https://www.shadcnui-blocks.com/
 - https://magicui.design/
+- https://flowbite.com/
+- https://saas-ui.dev/
 
 
 Other
@@ -22,3 +23,6 @@ Other
 - rotating globe https://cobe-playground.vercel.app/
 - Vibe Coding Games: https://yoannmoi.net/nipplejs/
 - https://silkhq.co/ - Native‑like swipeable sheets on the web
+
+TailwindCSS
+- https://hypercolor.dev/
