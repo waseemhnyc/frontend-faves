@@ -2,6 +2,8 @@
 
 
 A list of my favorite shadcn tools
+Start here: https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file
+
 - https://github.com/ekmas/neobrutalism-components
 - https://tweakcn.com/editor/theme
 - https://karrix.dev/components/unsave-popup
@@ -26,3 +28,5 @@ Other
 
 TailwindCSS
 - https://hypercolor.dev/
+- https://tailwindcss.com/plus
+
