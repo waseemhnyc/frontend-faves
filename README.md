@@ -17,6 +17,7 @@ Start here: https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file
 - https://magicui.design/
 - https://flowbite.com/
 - https://saas-ui.dev/
+- https://www.prompt-kit.com/ - chat components 
 
 
 Other
