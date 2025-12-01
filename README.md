@@ -19,6 +19,7 @@ Start here: https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file
 - https://saas-ui.dev/
 - https://www.prompt-kit.com/ - chat components
 - https://reui.io/docs/
+- https://ui.tripled.work/
 
 
 Other
