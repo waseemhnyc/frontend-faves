@@ -31,6 +31,7 @@ Other
 - rotating globe https://cobe-playground.vercel.app/
 - Vibe Coding Games: https://yoannmoi.net/nipplejs/
 - https://silkhq.co/ - Native‑like swipeable sheets on the web
+- cuelume-site.pages.dev - tiny interaction sounds
 
 TailwindCSS
 - https://hypercolor.dev/
