@@ -22,6 +22,7 @@ Start here: https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file
 - https://ui.tripled.work/
 - https://mapcn.vercel.app/
 - https://www.mapcn.dev/ - maps
+- https://lab.moumen.dev/components
 
 
 Other
