@@ -33,6 +33,7 @@ Other
 - Vibe Coding Games: https://yoannmoi.net/nipplejs/
 - https://silkhq.co/ - Native‑like swipeable sheets on the web
 - cuelume-site.pages.dev - tiny interaction sounds
+- https://www.beautifului.dev/
 
 TailwindCSS
 - https://hypercolor.dev/
