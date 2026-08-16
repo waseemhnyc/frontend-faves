@@ -23,7 +23,7 @@ Start here: https://github.com/birobirobiro/awesome-shadcn-ui?tab=readme-ov-file
 - https://mapcn.vercel.app/
 - https://www.mapcn.dev/ - maps
 - https://lab.moumen.dev/components
-
+- https://beui.dev/
 
 Other
 - https://cmdk.paco.me/ cmd + k feature
