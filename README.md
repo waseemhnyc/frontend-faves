@@ -40,7 +40,7 @@ Other
 - https://transitions.dev
 - https://amicro.vercel.app
 - https://canvasui.dev
-
+- https://www.rareui.com/
 
 TailwindCSS
 - https://hypercolor.dev/
