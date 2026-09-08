@@ -42,6 +42,7 @@ Other
 - https://canvasui.dev
 - https://www.rareui.com/
 - https://ui.spectrumhq.in/
+- https://opensourceui.in/
 
 TailwindCSS
 - https://hypercolor.dev/
