@@ -41,6 +41,7 @@ Other
 - https://amicro.vercel.app
 - https://canvasui.dev
 - https://www.rareui.com/
+- https://ui.spectrumhq.in/
 
 TailwindCSS
 - https://hypercolor.dev/
